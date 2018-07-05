@@ -1,0 +1,59 @@
+{
+"title":"BASIC INFORMATION",
+"detail":"I am a professional Customer Service Representative with over 6 years experience in handling multi-national clients. My unique professional experience stems from years of providing excellent customer support, creative problem solving and building customer loyalty."
+,
+"title1":"EDUCATION"
+,
+"university":
+[
+{"name":"University of El Docado",
+ "place":"Any City, State",
+ "year":"class of 2013",
+ "degree":"Master in Human Resource Management"},
+ {"name":"University of El Docado Human Resources Association",
+ "year":"Vice-President in 2012"},
+ {"name":"University of El Docado",
+ "place":"Any City, State",
+ "year":"class of 2010",
+ "degree":"Bachelors in Communication Arts",
+ "additional":"Dean's listed",
+ "other":"Teacher's Assistant of the Humanities Department"}
+],
+ "title2":"PROFESSIONAL EXPERIENCE",
+ "employer":
+[
+{"position":"Customer Service Manager",
+ "name":"Bijou Solutions, Inc.",
+ "place":"Any City, State",
+ "year":"2020-present",
+ "detail1":"Motivated and improved the customer service department and its 25 staff members to propel them towards set goals"},
+{"position":"Data Services Specialist",
+ "name":"24 Gold Lion Business Services,Inc.",
+ "place":"Any City, State",
+ "year":"2015-2019",
+ "detail2":"Developed organized and tracked key performance metrics and company profiles for all employees for better corporate productivity and monitoring"}
+],
+"last" : "NATHANIEL",
+ "first": "MORRISON",
+ "position": "CUSTOMER SERVICE",
+ "detail3" : "As someone who can identify the need of customers for effective solutions. I'm committed to high quality service that ensures a positive experience.",
+ "title3" : "PERSONALITY HIGHLIGHTS",
+ "list":
+[
+{"first1" : "Cheerful disposition",
+ "second" : "Neat and well-organized",
+ "third" : "Motivated by problem solving",
+ "fourth" : "Independent worker",
+ "fifth":"Works well with deadlines",
+ "sixth":"Collaborative and efficient"}
+ ],
+ "contact":
+ [{"description" : "CONTACT DETAILS",
+ "street" : "123 Anywhere St.",
+ "city":"Any City, State",
+ "country":"Country",
+ "email":"hello@reallygreatsite.com",
+ "website":"www.reallygreatsite.com",
+ "telephone":"123-456-789"}
+ ]
+}
